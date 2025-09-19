@@ -36,5 +36,5 @@ Elle combine **un modèle IA (scikit-learn)** déployé avec **FastAPI** et une 
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/ton-user/ton-repo.git
-cd ton-repo
+git https://github.com/DianaaRabe/HouSetimation.git
+cd HouSetimation.git
